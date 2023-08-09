@@ -8,6 +8,6 @@
 
 | Número | Proyecto | Código | Web |
 | --- | --- | --- | --- |
-| `01` | Twitter Follow Card | [Ver](/proyects/01-twitter-follow-card) | [Visitar](https://64d3098f1310931aac1d685c--rainbow-quokka-893fe0.netlify.app/) |
-| `02` | Tic Tac Toe | [Ver](/projects/02-tic-tac-toe) | [Visitar](https://midu-react-02.surge.sh) |
-| `03` | Mouse Follower | [Ver](/projects/03-mouse-follower) | [Visitar](https://midu-react-03.surge.sh) |
+| `01` | Twitter Follow Card | [Ver](/proyects/01-twitter-follow-card) | [Visitar](https://twitter-follow-card-893fe0.netlify.app/) |
+| `02` | Tic Tac Toe | [Ver](/projects/02-tic-tac-toe) | [Visitar](https://tic-tac-toe-644759.netlify.app/) |
+| `03` | Mouse Follower | [Ver](/projects/03-mouse-follower) | [Visitar](https://follow-mouse-075bb1.netlify.app/) |

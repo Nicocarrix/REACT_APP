@@ -14,5 +14,8 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
   }
 }
